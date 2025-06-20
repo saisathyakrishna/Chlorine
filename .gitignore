@@ -1,0 +1,7 @@
+# Ignore Python virtual environments and cache
+venv/
+__pycache__/
+*.pyc
+
+# Do NOT ignore model or image files
+# (LFS will handle *.pkl, *.onnx, *.jpg, *.png)
